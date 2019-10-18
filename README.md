@@ -1,6 +1,6 @@
 # Codepath Project 2 - Flixster
 
-This app shos Movies that are now playing.
+This app shows Movies that are now playing.
 
 Submitted by: James Vera-Soto
 
